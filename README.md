@@ -4,7 +4,5 @@
 
 </div>
 <div align="center">
-  
-![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
-
+  ![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true)
 </div>
