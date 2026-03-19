@@ -2,9 +2,9 @@
 
 ### A passionate junior dev
 
-<p align="left">
+<p align="center">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LilPinPong" alt="LilPinPong" /></a> 
+ [ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LilPinPong" alt="LilPinPong" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)
   
 </p>
 
