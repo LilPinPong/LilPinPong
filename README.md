@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gaby Langis
 
-<div align="center">
+<div>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=LilPinPong&theme=onedark&rank=AA,AAA,A,B,BB,BBB)](https://github.com/ryo-ma/github-profile-trophy)
   
