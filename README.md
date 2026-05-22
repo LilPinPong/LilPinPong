@@ -1,12 +1,10 @@
 # Hi 👋, I'm Gaby Langis
 
-### A passionate junior dev
-
-<p align="center">
-
+<div align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=LilPinPong&theme=onedark&rank=AA,AAA,A,B,BB,BBB)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-</p>
+### A passionate junior dev
 
 🔭 I'm currently working on **a Angular, ASP.Net Stack Project** 
 
