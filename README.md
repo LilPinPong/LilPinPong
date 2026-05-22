@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=LilPinPong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=LilPinPong&theme=onedark&rank=AA,AAA,A,B,BB,BBB)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
